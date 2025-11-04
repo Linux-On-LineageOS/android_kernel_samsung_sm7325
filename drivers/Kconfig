@@ -285,4 +285,6 @@ source "drivers/usb/typec/sm/sm5714/Kconfig" # ADDED BY LEGO AUTOMATICALLY: DO N
 source "drivers/lindroid-drm/Kconfig"
 
 source "drivers/lindroid-drm/Kconfig"
+
+source "drivers/lindroid-drm/Kconfig"
 endmenu
